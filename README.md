@@ -4,6 +4,11 @@ A ChatGPT-like example with [LangChain](https://www.langchain.com/) and [Streaml
 
 ![Chatting Example](images/chatting.gif)
 
+## Requirements
+
+- [OpenAI](https://openai.com/) API key
+- [Tavily](https://tavily.com/) API key
+
 ## Setup
 
 ```bash
