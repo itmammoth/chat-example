@@ -1,6 +1,6 @@
 # Chat Example
 
-A ChatGPT-like example with [LangChain](https://www.langchain.com/) and [Streamlit](https://streamlit.io/).
+A ChatGPT-like example with [LangChain](https://www.langchain.com/) and [Streamlit](https://streamlit.io/) in just 45 lines of code.
 
 ![Chatting Example](images/chatting.gif)
 
